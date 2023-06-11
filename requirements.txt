@@ -3,3 +3,5 @@ langchainplus-sdk==0.0.4
 tiktoken==0.4.0
 duckduckgo-search==3.8.1
 streamlit==1.23.1
+openai==0.27.8
+openapi-schema-pydantic==1.2.4
